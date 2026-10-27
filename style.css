@@ -1,0 +1,9 @@
+:root{font-family:system-ui,sans-serif;color:#152c43;background:#f5f8fa;line-height:1.65}
+body{margin:0;padding:2rem 1.25rem}
+main{max-width:48rem;margin:0 auto;padding:2rem;background:#fff;border:1px solid #dae3e9;border-radius:4px}
+h1{font-size:clamp(1.8rem,5vw,2.5rem);line-height:1.2;margin:.75rem 0 1.5rem}
+h2{font-size:1.25rem;line-height:1.4;margin-top:2rem}
+a{color:#006f79;text-underline-offset:.2em;overflow-wrap:anywhere}
+a:focus-visible{outline:3px solid #008a92;outline-offset:4px}
+.eyebrow{color:#536b80;font-size:.9rem;margin:0}
+@media(max-width:480px){body{padding:.75rem}main{padding:1.25rem}}
